@@ -1,5 +1,4 @@
-# Task 1
-Business Sales Dashboard from E-Commerce Dats
+# Task 1:Business Sales Dashboard from E-Commerce Dats
 ## Task Description
 The objective of this task is to analyze e-commerce sales data to identify best-selling products, sales trends, and high-revenue categories. The analysis is performed using Power BI to create an interactive business sales dashboard that helps stakeholders make data-driven decisions.
 ## Approach
